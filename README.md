@@ -58,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
