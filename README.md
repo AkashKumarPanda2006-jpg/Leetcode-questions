@@ -35,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0006-zigzag-conversion) |
+| [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
 ## Manacher
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [1929-concatenation-of-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -98,5 +103,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
