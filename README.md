@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 ## String
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0827-making-a-large-island) |
 | [1929-concatenation-of-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1929-concatenation-of-array) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
 ## Matrix
 |  |
