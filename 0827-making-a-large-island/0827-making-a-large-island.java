@@ -1,79 +1,109 @@
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
+class DisjointSet {
+        ArrayList<Integer> parent = new ArrayList<>() ;
+        ArrayList<Integer> size = new ArrayList<>() ;
 
-public class Solution {
-    // 4-directional offsets: up, down, left, right
-    private static final int[][] DIRECTIONS = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
+        public DisjointSet(int n) {
+            for(int i=0 ; i<n ; i++){
+                parent.add(i);
+                size.add(1) ;
+
+            }
+        }
+
+        public int findUPar(int node ){
+            // if node equals parent means it is the ulp 
+            if(node == parent.get(node)) return node ;
+
+            //else search for the ulp 
+            int ulp = findUPar(parent.get(node));
+            parent.set(node,ulp);
+            return parent.get(node) ;
+        }
+
+        public void uniounBySize(int u , int v){
+            int ulp_u = findUPar(u);
+            int ulp_v = findUPar(v);
+
+            if(ulp_u == ulp_v) return ;
+
+            //if u less than p 
+            if(size.get(ulp_u) < size.get(ulp_v)){
+
+                parent.set(ulp_u,ulp_v);
+                size.set(ulp_v , size.get(ulp_u) + size.get(ulp_v)) ;
+            }//Both the equal and greater than case handled by this if 
+            else {
+                parent.set(ulp_v,ulp_u);
+                size.set(ulp_u , size.get(ulp_u) + size.get(ulp_v)) ;
+            }
+        }
+}
+
+
+
+
+
+class Solution {
+
+    private boolean isValid(int nrow , int ncol , int n) {
+    return nrow >= 0 && nrow < n && ncol >=0 && ncol < n ;
+    }
 
     public int largestIsland(int[][] grid) {
-        int n = grid.length;
-        // Map to store islandId -> islandArea
-        Map<Integer, Integer> islandSizes = new HashMap<>();
-        int islandId = 2; // Start labels from 2 to avoid conflicting with 0 and 1
-        int maxArea = 0;
 
-        // Step 1: Precompute areas of all existing islands
-        for (int r = 0; r < n; r++) {
-            for (int c = 0; c < n; c++) {
-                if (grid[r][c] == 1) {
-                    int size = dfs(grid, r, c, islandId);
-                    islandSizes.put(islandId, size);
-                    maxArea = Math.max(maxArea, size); // Tracks grid with no 0s (like [[1,1],[1,1]])
-                    islandId++;
+        int n = grid.length ; 
+        DisjointSet ds = new DisjointSet(n * n) ;
+
+        for(int row = 0 ; row<n ; row++){
+            for(int col = 0 ; col < n ; col ++){
+                if(grid[row][col] == 0) continue ;
+                int dr[] = {-1,0,1,0} ;
+                int dc[] = {0,-1,0,1} ;
+                for(int ind = 0 ; ind < 4 ; ind ++){
+                    int newr = row + dr[ind] ;
+                    int newc = col + dc[ind] ;
+                    if(isValid(newr , newc , n ) && grid[newr][newc] ==1){
+                        int nodeNo = row * n + col ;
+                        int adjNodeNo = newr * n + newc ;
+                        ds.uniounBySize(nodeNo , adjNodeNo) ;
+                    }
                 }
             }
         }
 
-        // Step 2: Iterate through water cells and try flipping them
-        for (int r = 0; r < n; r++) {
-            for (int c = 0; c < n; c++) {
-                if (grid[r][c] == 0) {
-                    Set<Integer> uniqueNeighbors = new HashSet<>();
-                    
-                    // Check all 4 adjacent directions
-                    for (int[] dir : DIRECTIONS) {
-                        int nr = r + dir[0];
-                        int nc = c + dir[1];
-                        
-                        if (isValid(grid, nr, nc) && grid[nr][nc] > 1) {
-                            uniqueNeighbors.add(grid[nr][nc]);
+
+        int mx = 0 ;
+        for(int row = 0 ; row < n ; row ++){
+            for(int col = 0 ; col < n ; col ++) {
+                if(grid[row][col] == 1) continue ;
+                int dr[] = {-1,0,1,0} ;
+                int dc[] = {0,-1,0,1} ;
+                HashSet<Integer> components = new HashSet<>() ;
+                for(int ind = 0 ; ind < 4 ; ind ++){
+                    int newr = row + dr[ind] ;
+                    int newc = col + dc[ind] ;
+                    if(isValid(newr , newc , n)){
+                        if(grid[newr][newc] == 1) {
+                            components.add(ds.findUPar(newr * n + newc)) ;
                         }
                     }
-
-                    // Total potential area is 1 (the flipped cell) + neighbor areas
-                    int potentialArea = 1;
-                    for (int id : uniqueNeighbors) {
-                        potentialArea += islandSizes.get(id);
-                    }
-                    
-                    maxArea = Math.max(maxArea, potentialArea);
                 }
+
+                int sizeTotal = 0;
+                for(Integer parents : components) {
+                    sizeTotal += ds.size.get(parents) ;
+                }
+
+                mx = Math.max(mx,sizeTotal + 1) ;
+
+
             }
         }
 
-        return maxArea;
-    }
-
-    // Helper DFS function to mark islands and count their size
-    private int dfs(int[][] grid, int r, int c, int id) {
-        if (!isValid(grid, r, c) || grid[r][c] != 1) {
-            return 0;
+        for(int cellNo = 0 ; cellNo < n*n ; cellNo ++ ){
+            mx = Math.max(mx,ds.size.get(ds.findUPar(cellNo))) ;
         }
-
-        grid[r][c] = id; // Label the cell with the unique island ID
-        int size = 1;
-
-        for (int[] dir : DIRECTIONS) {
-            size += dfs(grid, r + dir[0], c + dir[1], id);
-        }
-
-        return size;
-    }
-
-    // Boundary check helper
-    private boolean isValid(int[][] grid, int r, int c) {
-        return r >= 0 && r < grid.length && c >= 0 && c < grid[0].length;
+        
+        return mx ;  
     }
 }
