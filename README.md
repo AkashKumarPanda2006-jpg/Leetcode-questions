@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -151,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
