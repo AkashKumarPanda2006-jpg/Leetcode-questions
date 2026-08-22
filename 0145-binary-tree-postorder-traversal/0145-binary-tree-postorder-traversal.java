@@ -18,21 +18,32 @@ class Solution {
 
         List<Integer> postorder = new ArrayList<>();
         Stack<TreeNode> st = new Stack<TreeNode>();
-        Stack<TreeNode> st2 = new Stack<TreeNode>();
+        TreeNode curr = root ;
 
-        if(root == null) return postorder ;
+        while(curr != null || !st.isEmpty()){
+            
+            if(curr != null ){
+                st.add(curr);
+                curr = curr.left ;
+            }
+            else{
+               TreeNode  temp =  st.peek().right;
+               if(temp == null){
+                    temp = st.peek();
+                    st.pop();
+                    postorder.add(temp.val ) ;
 
-        st.add(root);
-        while(!st.isEmpty()){
-            root = st.pop();
-            st2.add(root);
+                    while(!st.isEmpty() &&  temp == st.peek().right){
+                        temp = st.peek();
+                        st.pop();
+                        postorder.add(temp.val) ;
+                    }
 
-            if(root.left != null) st.add(root.left) ;
-            if(root.right != null) st.add(root.right) ;
-        }
-        
-        while(!st2.isEmpty()){
-            postorder.add(st2.pop().val) ;
+
+               }else{
+                curr = temp ; 
+               }
+            }
         }
 
         return postorder ;
