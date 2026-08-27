@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0563-binary-tree-tilt](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0617-merge-two-binary-trees) |
 | [0814-binary-tree-pruning](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0814-binary-tree-pruning) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0617-merge-two-binary-trees) |
 | [0814-binary-tree-pruning](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0814-binary-tree-pruning) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0563-binary-tree-tilt) |
 ## Backtracking
 |  |
 | ------- |
