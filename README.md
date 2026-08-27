@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0006-zigzag-conversion) |
+| [0257-binary-tree-paths](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
 ## Manacher
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0617-merge-two-binary-trees) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0617-merge-two-binary-trees) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 ## Binary Lifting
 |  |
 | ------- |
