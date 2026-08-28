@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0965-univalued-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0827-making-a-large-island) |
 | [0965-univalued-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Graph Theory
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
