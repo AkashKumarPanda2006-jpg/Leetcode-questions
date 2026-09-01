@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 ## String
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0006-zigzag-conversion) |
+| [0125-valid-palindrome](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
