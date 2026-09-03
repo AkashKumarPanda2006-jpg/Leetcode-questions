@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0029-divide-two-integers) |
+| [0258-add-digits](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1929-concatenation-of-array) |
 ## Union-Find
 |  |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
