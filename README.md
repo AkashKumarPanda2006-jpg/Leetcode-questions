@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0141-linked-list-cycle) |
@@ -335,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
