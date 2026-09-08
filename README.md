@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0827-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0875-koko-eating-bananas) |
 ## Bipartite Graph
 |  |
 | ------- |
