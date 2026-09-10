@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0257-binary-tree-paths) |
+| [0389-find-the-difference](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0771-jewels-and-stones) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0771-jewels-and-stones) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0721-accounts-merge](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
