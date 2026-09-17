@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0678-valid-parenthesis-string](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Depth-First Search
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0771-jewels-and-stones) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1929-concatenation-of-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0875-koko-eating-bananas) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bipartite Graph
 |  |
 | ------- |
@@ -373,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
