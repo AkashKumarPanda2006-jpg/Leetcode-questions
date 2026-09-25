@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0771-jewels-and-stones) |
 | [1096-brace-expansion-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Manacher
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3524-find-x-value-of-array-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
