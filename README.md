@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
