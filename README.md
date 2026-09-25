@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2974-minimum-number-game](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2974-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2974-minimum-number-game](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2974-minimum-number-game) |
 | [3524-find-x-value-of-array-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2974-minimum-number-game](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2974-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
