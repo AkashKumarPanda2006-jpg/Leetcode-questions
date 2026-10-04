@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -450,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
