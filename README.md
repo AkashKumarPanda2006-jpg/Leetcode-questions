@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0389-find-the-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2974-minimum-number-game](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2974-minimum-number-game) |
 | [3524-find-x-value-of-array-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bracket Sequences
 |  |
 | ------- |
