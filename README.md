@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2974-minimum-number-game](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2974-minimum-number-game) |
 | [3524-find-x-value-of-array-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
 ## Memoization
 |  |
@@ -490,4 +493,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
