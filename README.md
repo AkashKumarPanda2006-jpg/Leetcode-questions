@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1929-concatenation-of-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2974-minimum-number-game](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2974-minimum-number-game) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bipartite Graph
 |  |
