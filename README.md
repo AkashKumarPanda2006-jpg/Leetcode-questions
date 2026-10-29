@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Manacher
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3886-sum-of-sortable-integers) |
@@ -421,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -522,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -532,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
