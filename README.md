@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2409-count-days-spent-together) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2974-minimum-number-game](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2974-minimum-number-game) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
 | Problem Name | Difficulty |
