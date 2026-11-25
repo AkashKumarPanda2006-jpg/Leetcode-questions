@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3903-smallest-stable-index-i) |
+| [3934-smallest-unique-subarray](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Bipartite Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -616,4 +620,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/AkashKumarPanda2006-jpg/Leetcode-questions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
